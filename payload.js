@@ -51,7 +51,7 @@ function load_platinum(){
 }
 
 function load_goldhen24b(){
-      setTimeout(loader('goldhen_2.4b15.bin'), 100);
+      setTimeout(loader('goldhen_2.4b16.bin'), 100);
 } 
      
 function loader(PLfile){ 
